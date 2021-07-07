@@ -1,6 +1,6 @@
 <?php
 
-define('URL', 'http://localhost:81/encuesta/');
+define('URL', 'http://localhost/encuesta/');
 
 define("DBDRIVER", "mysql");
 define('DBHOST', 'localhost');

@@ -25,7 +25,7 @@
                         <?php
                         $this->showMessages();
                         ?>
-                        <form action="<?php echo constant("URL"); ?>/login/authenticate" method="post">
+                        <form action="<?php echo constant("URL"); ?>login/authenticate" method="post">
                             <div class="row mb-3">
                                 <label class="col-sm-4 col-form-label" for="nombre">Nombre</label>
                                 <div class="col-sm-8">

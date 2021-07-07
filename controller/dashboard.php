@@ -15,6 +15,6 @@ class Dashboard extends SessionController
     }
     function render()
     {
+        $this->view->render("dashboard/index", []);
     }
-
 }
