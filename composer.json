@@ -1,0 +1,22 @@
+{
+  "name": "yo/encuesta",
+  "description": "encuesta itt",
+  "type": "no",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "mateomtz199",
+      "email": "mateomtz887@gmail.com"
+    }
+  ],
+  "require": {
+    "illuminate/database": "*",
+    "phpoffice/phpspreadsheet": "^1.18"
+  },
+  "autoload": {
+    "psr-4": {
+      "Controllers\\": "controller/",
+      "Models\\": "models/"
+    }
+  }
+}
