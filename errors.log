@@ -1,34 +1,41 @@
-[07-Jul-2021 07:03:59 Europe/Berlin] App::construct -> No hay controlador especificado
-[07-Jul-2021 07:03:59 Europe/Berlin] Inicio de login
-[07-Jul-2021 07:04:00 Europe/Berlin] App::construct -> No hay controlador especificado
-[07-Jul-2021 07:04:00 Europe/Berlin] Inicio de login
-[07-Jul-2021 07:07:36 Europe/Berlin] App::construct -> No hay controlador especificado
-[07-Jul-2021 07:07:36 Europe/Berlin] Inicio de login
-[07-Jul-2021 07:07:37 Europe/Berlin] App::construct -> No hay controlador especificado
-[07-Jul-2021 07:07:37 Europe/Berlin] Inicio de login
-[07-Jul-2021 07:10:26 Europe/Berlin] App::construct -> No hay controlador especificado
-[07-Jul-2021 07:10:26 Europe/Berlin] Inicio de login
-[07-Jul-2021 07:10:27 Europe/Berlin] App::construct -> No hay controlador especificado
-[07-Jul-2021 07:10:27 Europe/Berlin] Inicio de login
-[07-Jul-2021 07:10:27 Europe/Berlin] App::construct -> No hay controlador especificado
-[07-Jul-2021 07:10:27 Europe/Berlin] Inicio de login
-[07-Jul-2021 07:10:27 Europe/Berlin] App::construct -> No hay controlador especificado
-[07-Jul-2021 07:10:27 Europe/Berlin] Inicio de login
-[07-Jul-2021 07:10:28 Europe/Berlin] App::construct -> No hay controlador especificado
-[07-Jul-2021 07:10:28 Europe/Berlin] Inicio de login
-[07-Jul-2021 07:15:33 Europe/Berlin] App::construct -> No hay controlador especificado
-[07-Jul-2021 07:15:33 Europe/Berlin] Inicio de login
-[07-Jul-2021 07:18:39 Europe/Berlin] App::construct -> No hay controlador especificado
-[07-Jul-2021 07:18:39 Europe/Berlin] Inicio de login
-[07-Jul-2021 07:18:41 Europe/Berlin] App::construct -> No hay controlador especificado
-[07-Jul-2021 07:18:41 Europe/Berlin] Inicio de login
-[07-Jul-2021 07:18:50 Europe/Berlin] App::construct -> No hay controlador especificado
-[07-Jul-2021 07:18:50 Europe/Berlin] Inicio de login
-[07-Jul-2021 07:57:00 Europe/Berlin] App::construct -> No hay controlador especificado
-[07-Jul-2021 07:57:00 Europe/Berlin] Inicio de login
-[07-Jul-2021 07:57:02 Europe/Berlin] App::construct -> No hay controlador especificado
-[07-Jul-2021 07:57:02 Europe/Berlin] Inicio de login
-[07-Jul-2021 07:57:14 Europe/Berlin] App::construct -> No hay controlador especificado
-[07-Jul-2021 07:57:14 Europe/Berlin] Inicio de login
-[07-Jul-2021 07:57:30 Europe/Berlin] App::construct -> No hay controlador especificado
-[07-Jul-2021 07:57:30 Europe/Berlin] Inicio de login
+[[08-Jul-2021 05:12:52 Europe/Berlin] Inicio de login
+[08-Jul-2021 05:12:58 Europe/Berlin] PHP Notice:  Undefined index: secciones in C:\xampp\htdocs\encuesta\views\secciones\create.php on line 6
+[08-Jul-2021 05:13:00 Europe/Berlin] PHP Notice:  Undefined index: secciones in C:\xampp\htdocs\encuesta\views\secciones\create.php on line 6
+[08-Jul-2021 05:13:08 Europe/Berlin] PHP Notice:  Undefined index: secciones in C:\xampp\htdocs\encuesta\views\secciones\create.php on line 6
+[08-Jul-2021 05:13:27 Europe/Berlin] PHP Notice:  Undefined index: secciones in C:\xampp\htdocs\encuesta\views\secciones\create.php on line 6
+[08-Jul-2021 05:13:28 Europe/Berlin] PHP Notice:  Undefined index: secciones in C:\xampp\htdocs\encuesta\views\secciones\create.php on line 6
+[08-Jul-2021 05:13:29 Europe/Berlin] PHP Notice:  Undefined index: secciones in C:\xampp\htdocs\encuesta\views\secciones\create.php on line 6
+[08-Jul-2021 05:26:49 Europe/Berlin] Inicio de login
+[08-Jul-2021 05:28:07 Europe/Berlin] App::construct -> No hay controlador especificado
+[08-Jul-2021 05:28:07 Europe/Berlin] Inicio de login
+[08-Jul-2021 05:28:12 Europe/Berlin] Inicio de login
+[08-Jul-2021 05:28:12 Europe/Berlin] ExistPOST: Existen parámetros
+[08-Jul-2021 05:28:12 Europe/Berlin] login: inicio
+[08-Jul-2021 05:28:12 Europe/Berlin] login: user id 1
+[08-Jul-2021 05:28:12 Europe/Berlin] App::construct -> No hay controlador especificado
+[08-Jul-2021 05:28:12 Europe/Berlin] Inicio de login
+[08-Jul-2021 05:28:12 Europe/Berlin] View::handleError() existsKey =>Nombre de usuario y/o password incorrectos
+[08-Jul-2021 05:28:18 Europe/Berlin] Inicio de login
+[08-Jul-2021 05:28:18 Europe/Berlin] ExistPOST: Existen parámetros
+[08-Jul-2021 05:28:18 Europe/Berlin] login: inicio
+[08-Jul-2021 05:28:18 Europe/Berlin] login: user id 1
+[08-Jul-2021 05:28:18 Europe/Berlin] login: success
+[08-Jul-2021 05:28:24 Europe/Berlin] App::construct -> No hay controlador especificado
+[08-Jul-2021 05:28:24 Europe/Berlin] Inicio de login
+[08-Jul-2021 05:28:33 Europe/Berlin] PHP Notice:  Undefined index: user in C:\xampp\htdocs\encuesta\classes\session.php on line 24
+[08-Jul-2021 05:28:33 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\encuesta\models\UserModel.php on line 84
+[08-Jul-2021 05:28:33 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\encuesta\models\UserModel.php on line 85
+[08-Jul-2021 05:28:33 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\encuesta\models\UserModel.php on line 86
+[08-Jul-2021 05:28:33 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\encuesta\models\UserModel.php on line 87
+[08-Jul-2021 05:28:33 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\encuesta\models\UserModel.php on line 88
+[08-Jul-2021 05:28:33 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\encuesta\models\UserModel.php on line 89
+[08-Jul-2021 05:28:33 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\encuesta\models\UserModel.php on line 90
+[08-Jul-2021 05:28:33 Europe/Berlin] App::construct -> No hay controlador especificado
+[08-Jul-2021 05:28:33 Europe/Berlin] Inicio de login
+[08-Jul-2021 05:28:38 Europe/Berlin] Inicio de login
+[08-Jul-2021 05:28:38 Europe/Berlin] ExistPOST: Existen parámetros
+[08-Jul-2021 05:28:38 Europe/Berlin] login: inicio
+[08-Jul-2021 05:28:38 Europe/Berlin] login: user id 1
+[08-Jul-2021 05:28:38 Europe/Berlin] login: success
+[08-Jul-2021 05:29:17 Europe/Berlin] ExistPOST: Existen parámetros
+[08-Jul-2021 05:35:57 Europe/Berlin] ExistPOST: No existe el parametro nombre_organizacion

@@ -24,6 +24,21 @@
       "site": "usuario",
       "access": "private",
       "role": "user"
+    },
+     {
+      "site": "usuario",
+      "access": "private",
+      "role": "admin"
+    },
+    {
+      "site": "institucion",
+      "access": "private",
+      "role": "admin"
+    },
+    {
+      "site": "secciones",
+      "access": "private",
+      "role": "admin"
     }
   ],
 

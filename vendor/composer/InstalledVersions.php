@@ -25,12 +25,12 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '43d98f3e6256e5abe33f0f93a641fb61ea160c99',
     'name' => 'yo/encuesta',
   ),
   'versions' => 
@@ -346,12 +346,12 @@ private static $installed = array (
     ),
     'yo/encuesta' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '43d98f3e6256e5abe33f0f93a641fb61ea160c99',
     ),
   ),
 );
